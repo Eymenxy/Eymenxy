@@ -7,9 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sinner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sinner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sinner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sinner" height="30" width="40" /></a>
-<a href="https://discord.gg/SinneR#2974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SinneR#2974" height="30" width="40" /></a>
+<a href="https://www.youtube.com/UC0c5AkdSl72Z0OQLAUhK9ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sinner" height="30" width="40" /></a>
+<a href="SinneR#2974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SinneR#2974" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
